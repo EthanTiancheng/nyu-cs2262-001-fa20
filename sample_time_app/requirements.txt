@@ -1,0 +1,5 @@
+cd nyu-cs2262-001-fa20/sample_time_app
+
+printf "flask==2.3.2\n" > requirements.txt
+
+ls -la
